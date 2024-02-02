@@ -14,4 +14,4 @@ The .3dm files you will find here are **Rhino 7 format files**.
 
 Note, the original symbols library files were named in the old DOS 8.3 format. Thus, you might not get a hint to what is in the file from it's name. We suggest opening the [Libraries](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/libraries.htm#(null)) panel, in Rhino to preview, the files. From here, you can drag and drop them into the open document.
 
-You are free to use these symbols without restriction.
+Enjoy!
