@@ -8,10 +8,10 @@ Included with these tools as a substantial 2D symbols library, over 3000 symbols
 
 We've batch converted this symbols library to Rhino's .3dm file format. You are free to use these symbols without restriction.
 
-The original symbols library files were named in the old DOS 8.3 format. So you might not get a hint to what is in the file from it's name. 
-
 The .3dm files you will find here are **Rhino 7 format files**.
 
 Note, the original symbols library files were named in the old DOS 8.3 format. Thus, you might not get a hint to what is in the file from it's name. We suggest opening the [Libraries](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/libraries.htm#(null)) panel, in Rhino to preview, the files. From here, you can drag and drop them into the open document.
+
+Also, AutoCAD .dwg files are *unitless*. Thus, you'll need to scale these symbols, during insertion, to meet your requirements.
 
 Enjoy!
