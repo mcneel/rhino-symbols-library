@@ -6,7 +6,7 @@ During the salad days of Robert McNeel & Associates, back when we an Autodesk re
 
 Included with these tools was a substantial 2D symbols library, over 3000 symbols. Most of these symbols were created using AutoCAD Release 11 (or perhaps an earlier version).
 
-We've batch converted this symbols library to Rhino's .3dm file format. You are free to use these symbols without restriction.
+We've converted this symbols to Rhino's .3dm file format. You are free to use these symbols without restriction.
 
 The .3dm files you will find here are **Rhino 7 format files**.
 
