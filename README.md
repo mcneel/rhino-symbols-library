@@ -1,7 +1,5 @@
 # Rhino Symbols Library
 
-<img align="left" src="https://raw.githubusercontent.com/mcneel/developer.rhino3d.com/main/resources/images/dev-logo-rhino-small.png">
-
 During the salad days of Robert McNeel & Associates, back when we an Autodesk reseller, we developed add-ons for AutoCAD. Our **Allegro Tablet Tools** and **IconTOOL** products were invaluable tools for helping drafters migrate away from the board and into the electronic CAD universe.
 
 Included with these tools was a substantial 2D symbols library, over 3000 symbols. Most of these symbols were created using AutoCAD Release 11 (or perhaps an earlier version).
